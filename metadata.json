@@ -1,0 +1,7 @@
+{
+  "name": "QTradex - Premium Binary Options Platform",
+  "description": "A professional Quotex clone with real-time trading engine, split-screen charts, AI signals, and multi-currency support.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
